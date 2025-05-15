@@ -1,4 +1,4 @@
-name: MinTic Deploy to AWS CloudFormationss
+name: MinTic Deploy to AWS CloudFormation - FINAL
 
 on:
   push:
